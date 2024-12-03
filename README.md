@@ -44,8 +44,8 @@
             <tr>
                 <td>02</td>
                 <td>Trabalhando em Equipes Ágeis</td>
-                <td><a href="">Link</a></td>
-                <td align="center">❌</td>
+                <td><a href="./Módulo 1/02. Trabalhando em Equipes Ágeis.md">Link</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>03</td>
