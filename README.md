@@ -44,31 +44,31 @@
             <tr>
                 <td>02</td>
                 <td>Trabalhando em Equipes Ágeis</td>
-                <td><a href="./Módulo 1/02. Desenvolvimento Web com Spring Boot 3 e Kotlin.md">Link</a></td>
-                <td align="center">✔️</td>
+                <td><a href="">Link</a></td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>03</td>
                 <td>Organizando seus Estudos com os Roadmaps DIO e o Notion</td>
-                <td><a href="./Módulo 1/03. Versionamento de código com Git e GitHub.md">Link</a></td>
-                <td align="center">✔️</td>
+                <td><a href="">Link</a></td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td>04</td>
                 <td>Versionamento de Código com Git e GitHub</td>
-                <td><a href="./Módulo 1/04. Desafios de projetos - Crie um portfólio vencedor.md">Link</a></td>
+                <td><a href="./Módulo 1/04. Versionamento de código com Git e GitHub.md">Link</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>05</td>
                 <td>Desafios de Projetos: Crie um Portfólio Vencedor</td>
-                <td><a href="./Módulo 1/05. Contribuindo em um Projeto Open Source no GitHub.md">Link</a></td>
+                <td><a href="./Módulo 1/05. Desafios de projetos - Crie um portfólio vencedor.md">Link</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>06</td>
-                <td>Constribuindo em um Projeto Open Source no GitHub</td>
-                <td><a href="./Módulo 1/06. Imersão no Spring Framework com Spring Boot.md">Link</a></td>
+                <td>Contribuindo em um Projeto Open Source no GitHub</td>
+                <td><a href="./Módulo 1/06. Contribuindo em um Projeto Open Source no GitHub.md">Link</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
