@@ -173,7 +173,6 @@
     </table>
 </div>
 </details>
-<br/>
 
 <details> <!--About module 4 / Sobre módulo 4-->
 <summary><span>Testes de Invasão e Busca por Vulnerabilidades</span></summary>
@@ -256,7 +255,6 @@
     </table>
 </div>
 </details>
-<br/>
 
 <details> <!--About module 5 / Sobre módulo 5-->
 <summary><span>Fortalecendo seu Perfil Profissional</span></summary>
